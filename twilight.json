@@ -1,9 +1,9 @@
 {
     "name": {
-        "ar": "رائد",
+        "ar": "dots",
         "en": "Theme Raed"
     },
-    "repository": "https://github.com/SallaApp/theme-raed",
+    "repository": "https://github.com/stanxd/theme-dots",
     "author_email": "support@salla.dev",
     "features": [
         "mega-menu",
@@ -680,7 +680,7 @@
             ]
         }
     ],
-    "support_url": "https://salla.dev",
+    "support_url": "https://stas.sa",
     "description": {
         "ar": "مجموعة كبيرة من المزايا لدعم تجارتك وتقديم تجربة تسوق مثيرة لعملائك",
         "en": "A wide range of features to support your business and provide an exciting shopping experience for your customers"
